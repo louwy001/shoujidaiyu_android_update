@@ -1,6 +1,6 @@
 {
-"versionCode": 2,
-"versionName": "1.0.2",
+"versionCode": 1,
+"versionName": "1.0.0",
 "versionPlatform": "android",
-"url": "https://raw.githubusercontent.com/louwy001/shoujidaiyu_android_update/master/Shoujidaiyu_release_1.0.2.apk"
+"url": "https://raw.githubusercontent.com/louwy001/shoujidaiyu_android_update/master/Shoujidaiyu_release_1.0.0.apk"
 }
